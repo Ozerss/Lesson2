@@ -6,5 +6,4 @@ def type1(tut):
         print(type(list1[tut]))
     return
 
-
 type1(list1)
